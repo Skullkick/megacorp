@@ -1,3 +1,2 @@
 partner list
-boot.dev
 Thestartup
